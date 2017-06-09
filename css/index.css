@@ -1,0 +1,19 @@
+.heade{width:100%}
+body{width:100%}
+.banner{width:100%;height: 450px;position: relative;margin: 0 auto;}
+.banner .box{height: 450px;width: 100%;position:absolute;}
+.banner .box li{height: 90px;width: 100%;list-style: none;}
+/*.content{width:100%;height: 450px;background: url(../img/banner0.jpg) no-repeat center top;background-size:1920px 450px;position: relative ;}*/
+ .content_ul{width:450px;text-align: center;margin: 0 auto;}
+ .content_box{width:100%;position: absolute;bottom:6px;}
+ .content_ul li{width:120px;height:30px;text-align: center;margin-right:30px;float: left;line-height:30px;font-size: 13px;background: white;}
+.content_ul .on{color:white;background: black;}
+.gongg{width:1200px;height:120px;margin: 0 auto;background: url(../img/xp.png) no-repeat center top;}
+.gongg a{display: block;width:1240px;height:120px;}
+.pplogo{width:1200px;margin: 0 auto;height: 500px;}
+.pplogo_top{width:690px;height:44px}
+.pplogo_topp1{margin-top:10px;float: left;font-size: 14px;color:#333333}
+.pplogo_topp2{margin-top:10px;float: right;font-size: 11px;color:#333333;padding-left: 20px;}
+.pplogo_ul{border-left:1px solid #eee;border-top:1px solid #eee;float: left;width:680px;}
+.pplogo_ul li{float:left;width:169px;height:73px;border-right: #eee 1px solid;border-bottom: #eee 1px solid}
+.pplogo_ul li a{display:block;padding:7px 0 0 18px;height:65px;width:150px;}
